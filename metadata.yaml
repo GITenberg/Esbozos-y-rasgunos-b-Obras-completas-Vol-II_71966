@@ -1,0 +1,40 @@
+_repo: Esbozos-y-rasgunos-b-Obras-completas-Vol-II_71966
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pereda, José María de
+    aliases:
+    - Pereda, Jose Maria de
+    - Porrúa, José María de Pereda y Sánchez
+    - Sánchez Porrúa, José María de Pereda y
+    - De Pereda, José María
+    - Porrua, Jose Maria de Pereda y Sanchez
+    birthdate: 1833
+    deathdate: 1906
+    gutenberg_agent_id: '4463'
+    url: http://www.gutenberg.org/2009/agents/4463
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_de_Pereda
+    - https://es.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_de_Pereda
+description: ''
+gutenberg_issued: '2023-10-27'
+identifiers:
+  gutenberg: '71966'
+language: es
+pgterms:marc904: https://archive.org/details/obrascompletas07pere
+pgterms:marc905: 20210227141450pereda
+pgterms:marc906: '1898'
+pgterms:marc907: ES
+production_note: Andrés V. Galia, Santiago and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aMadrid :$bViuda e Hijos de Manuel Tello, $c1898.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish literature -- 19th century'
+- !lcc 'PQ'
+- GITenberg
+title: 'Esbozos y rasguños : $b Obras completas - Vol. II'
+url: http://www.gutenberg.org/ebooks/71966
