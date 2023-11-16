@@ -1,5 +1,8 @@
 _repo: Esbozos-y-rasgunos-b-Obras-completas-Vol-II_71966
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71966-h/images/cover.jpg
 creator:
   author:
     agent_name: Pereda, José María de
@@ -17,6 +20,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_de_Pereda
     - https://es.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_de_Pereda
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71966#Esbozos-y-rasgunos-b-Obras-completas-Vol-II
 gutenberg_issued: '2023-10-27'
 identifiers:
   gutenberg: '71966'
